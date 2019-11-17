@@ -1,3 +1,2 @@
 # TestDataAnalysis
-compare two kinds of data to get info to generate report
-use pandas
+use python pandas to compare with two kinds of data to get info to generate report
